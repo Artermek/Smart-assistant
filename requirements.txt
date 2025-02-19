@@ -1,0 +1,4 @@
+selenium
+python-docx
+langchain_community==0.3.12
+html2text==2024.2.26
